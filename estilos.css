@@ -1,7 +1,7 @@
 body {
 	font-size:25pt;
 	font-style:verdana;
-	color:#0095FD;
+	color:#000000;
     background-color: #FFFFFF
 }
 
@@ -72,13 +72,7 @@ text-align: center;
 	text-align: justify;
 }
 
-#footer {
 
-color: #2EFD00
-background-color: #FFFFFF
-border-top:#2EFD00
-border-bottom:#2EFD00;
 
-}
 
 
